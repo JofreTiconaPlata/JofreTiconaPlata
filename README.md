@@ -26,7 +26,7 @@
 
 ## About Me
 
-I am a **Systems Engineering student at Universidad Mayor de San Simón — UMSS**, focused on software development, backend systems and technical problem-solving.
+I am a **Systems Engineering focused on software development, backend systems and technical problem-solving.
 
 My interests extend beyond application development into the technologies that support modern software environments, including Linux, networking, databases, servers, deployment and cybersecurity.
 
