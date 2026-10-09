@@ -67,35 +67,26 @@
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-D4A373?style=for-the-badge&logo=opsgenie&logoColor=282422" alt="System Status" />
 </p>
 
-<!-- Fila 1: Stats Principales + Lenguajes Más Usados (Tema Moca Oscuro) -->
+<!-- Fila 1: Resumen General de Commits y Racha de Trabajo -->
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=JofreTiconaPlata&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=1c1917&title_color=d4a373&icon_color=e9edc9&text_color=faedcd"
+    src="https://github-readme-stats.vercel.app/api?username=JofreTiconaPlata&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=1c1917&title_color=d4a373&icon_color=faedcd&text_color=faedcd"
     alt="GitHub Overview Stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JofreTiconaPlata&layout=compact&langs_count=6&hide_border=true&bg_color=1c1917&title_color=d4a373&text_color=faedcd"
-    alt="Top Languages"
-  />
-</p>
-
-<!-- Fila 2: Streak / Constancia de Código (Colores Soft Moca) -->
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JofreTiconaPlata&hide_border=true&background=1C1917&ring=D4A373&fire=E9EDC9&currStreakNum=FAEDCD&sideNums=D4A373&currStreakLabel=D4A373&sideLabels=CCD5AE&dates=A3B18A"
+    src="https://streak-stats.demolab.com/?user=JofreTiconaPlata&hide_border=true&background=1C1917&ring=D4A373&fire=E9EDC9&currStreakNum=FAEDCD&sideNums=D4A373&currStreakLabel=D4A373&sideLabels=CCD5AE&dates=A3B18A"
     alt="GitHub Streak Stats"
   />
 </p>
 
-<!-- Fila 3: Gráfico Continuo de Actividad -->
+<!-- Fila 2: Análisis de Lenguajes Más Usados (Ancho Completo y Estable) -->
 <p align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JofreTiconaPlata&theme=react-dark&bg_color=1c1917&color=d4a373&line=ccd5ae&point=faedcd&area=true&hide_border=true"
-    alt="Performance Activity Graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JofreTiconaPlata&layout=compact&langs_count=8&hide_border=true&bg_color=1c1917&title_color=d4a373&text_color=faedcd"
+    alt="Top Languages"
   />
 </p>
 
