@@ -1,28 +1,28 @@
 <div align="center">
-  <!-- Encabezado animado tipo Typist -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72585&center=true&vCenter=true&width=550&lines=Jofre+Ticona+Plata;Systems+%26+Software+Engineer;Backend+%26+Infrastructure" alt="Typing Header" />
+  <!-- Encabezado animado tipo Typist (Tono Crema Moca) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D4A373&center=true&vCenter=true&width=550&lines=Jofre+Ticona+Plata;Systems+%26+Software+Engineer;Backend+%26+Infrastructure" alt="Typing Header" />
 
   <p align="center">
     <em>Architecting reliable backend services, distributed systems, and optimized Linux infrastructure.</em>
   </p>
 
-  <!-- Badges de áreas clave -->
+  <!-- Badges de áreas clave en paleta Mocha / Warm Earth -->
   <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Backend_Dev-00F5D4?style=for-the-badge&logo=node.js&logoColor=black" alt="Backend" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Linux_Systems-7209B7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Infrastructure-4CC9F0?style=for-the-badge&logo=docker&logoColor=black" alt="Infrastructure" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Cybersecurity-F72585?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Backend_Dev-A3B18A?style=for-the-badge&logo=node.js&logoColor=282422" alt="Backend" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux_Systems-D4A373?style=for-the-badge&logo=linux&logoColor=282422" alt="Linux" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Infrastructure-CCD5AE?style=for-the-badge&logo=docker&logoColor=282422" alt="Infrastructure" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Cybersecurity-E9EDC9?style=for-the-badge&logo=shield&logoColor=282422" alt="Cybersecurity" /></a>
   </p>
 
   <!-- Contador de visitas estilizado -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=JofreTiconaPlata&style=for-the-badge&color=7209b7&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=JofreTiconaPlata&style=for-the-badge&color=d4a373&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
 ---
 
-## ⚡ Core Competencies
+## ☕ Core Competencies
 
 - 🚀 **Backend Engineering:** Design & implementation of RESTful APIs, modular architectures, and secure auth systems.
 - ⚡ **High-Performance Code:** Asynchronous processing, real-time WebSockets, and optimized database queries.
@@ -64,28 +64,28 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00F5D4?style=for-the-badge&logo=opsgenie&logoColor=black" alt="System Status" />
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-D4A373?style=for-the-badge&logo=opsgenie&logoColor=282422" alt="System Status" />
 </p>
 
-<!-- Fila 1: Stats Principales + Lenguajes Más Usados -->
+<!-- Fila 1: Stats Principales + Lenguajes Más Usados (Tema Moca Oscuro) -->
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=JofreTiconaPlata&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=00F5D4&text_color=E2E8F0"
+    src="https://github-readme-stats.vercel.app/api?username=JofreTiconaPlata&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=1c1917&title_color=d4a373&icon_color=e9edc9&text_color=faedcd"
     alt="GitHub Overview Stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JofreTiconaPlata&layout=compact&langs_count=6&hide_border=true&theme=synthwave&bg_color=0D1117&title_color=F72585&text_color=E2E8F0"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JofreTiconaPlata&layout=compact&langs_count=6&hide_border=true&bg_color=1c1917&title_color=d4a373&text_color=faedcd"
     alt="Top Languages"
   />
 </p>
 
-<!-- Fila 2: Streak / Constancia de Código -->
+<!-- Fila 2: Streak / Constancia de Código (Colores Soft Moca) -->
 <p align="center">
   <img
     width="95%"
-    src="https://streak-stats.demolab.com/?user=JofreTiconaPlata&hide_border=true&background=0D1117&ring=F72585&fire=00F5D4&currStreakNum=00F5D4&sideNums=F72585&currStreakLabel=F72585&sideLabels=7209B7&dates=9CA3AF"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JofreTiconaPlata&hide_border=true&background=1C1917&ring=D4A373&fire=E9EDC9&currStreakNum=FAEDCD&sideNums=D4A373&currStreakLabel=D4A373&sideLabels=CCD5AE&dates=A3B18A"
     alt="GitHub Streak Stats"
   />
 </p>
@@ -94,7 +94,7 @@
 <p align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JofreTiconaPlata&bg_color=0D1117&color=00F5D4&line=7209B7&point=F72585&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JofreTiconaPlata&theme=react-dark&bg_color=1c1917&color=d4a373&line=ccd5ae&point=faedcd&area=true&hide_border=true"
     alt="Performance Activity Graph"
   />
 </p>
@@ -107,8 +107,8 @@
   <p><em>"Build software that is understandable, maintainable, and reliable."</em></p>
   
   <p>
-    <a href="https://github.com/JofreTiconaPlata"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/JofreTiconaPlata"><img src="https://img.shields.io/badge/GitHub-282422?style=for-the-badge&logo=github&logoColor=D4A373" alt="GitHub" /></a>
+    <a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=282422" alt="Email" /></a>
   </p>
 
   <p><strong>Open to engineering opportunities, backend initiatives, and technical collaboration.</strong></p>
